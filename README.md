@@ -65,7 +65,7 @@ I'm a Computer Science Student 😊.
 <a href="guptauday627@gmail.com" target="_blank">
   <img align="left" alt="Uday's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href=#><img src="https://github.com/rahulsingh7105/uday95577/blob/main/contributions.svg"></a>
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
